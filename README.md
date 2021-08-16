@@ -1,0 +1,2 @@
+# LXLInformation
+一个用LXL实现的bds保存玩家信息的插件
